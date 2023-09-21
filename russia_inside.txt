@@ -3,3 +3,5 @@ pochta.ru
 kinopoisk.ru
 mos.ru
 ozon.ru
+yandex.ru
+yandex.net
